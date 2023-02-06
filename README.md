@@ -1,0 +1,2 @@
+# iOSSubWeathertennki
+一週間分の関東の天気を取得できるアプリを作成しました。
